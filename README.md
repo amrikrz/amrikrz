@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm [AMR IKRAM] 👋
+# Hi, I'm AMR IKRAM 👋
 
 🎓 Master's Student in IoT & Artificial Intelligence  
 🤖 AI Engineer and Full-Stack Developer from Algeria  
